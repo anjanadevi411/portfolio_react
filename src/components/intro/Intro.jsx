@@ -19,7 +19,10 @@ function Intro() {
             </div>
           </div>
           <p className="i-desc">
-            I like createing websites in React and Django
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat
+            consequuntur, et labore saepe soluta laboriosam, deserunt ipsam
+            nobis temporibus facilis sunt officiis vel, natus dicta consequatur
+            nesciunt sapiente eligendi totam?
           </p>
         </div>
       </div>

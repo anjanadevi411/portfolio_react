@@ -1,0 +1,5 @@
+.nav {
+  height: 30vh;
+  background-color: palevioletred;
+  clip-path: polygon(100% 0%, 100% 50%, 83% 27%, 0 100%, 0% 50%, 0 0);
+}

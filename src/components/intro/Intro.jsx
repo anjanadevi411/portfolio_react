@@ -1,7 +1,6 @@
 import React from "react";
 import "./intro.css";
 import Anjana from "../../images/Anjana.jpg";
-import IMG_3059 from "../../images/IMG_3059.JPG";
 
 function Intro() {
   return (
